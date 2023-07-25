@@ -18,4 +18,6 @@ It does not block ads on YouTube. It does not block content on Amazon Prime or S
 - Copy the URL.
 - Go to you DNS tool (PiHole or Adguard for example) and add the blocklist
 
-When you turn it on again, it will fail to load the recommended tab, and just show you your apps.
+### Possible Issues
+
+App's can't be installed or updated when the blocklist is used. So you need to disable your DNS Blocker when installing/updating apps manually.
