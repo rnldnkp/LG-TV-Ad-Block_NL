@@ -1,4 +1,4 @@
-# Update, Ads and Recommended Content blocker for LG TVs
+# Update, Ads and Recommended Content blocker for LG TVs in The Netherlands
 
 ## FAQ
 
